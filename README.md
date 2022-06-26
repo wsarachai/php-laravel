@@ -55,7 +55,7 @@
 - To view result open http://localhost:8000 in web browser.
 - To stop web server hit `ctrl-c` on command-line windows that runs the web server.
 
-# How to configure the project
+# How to configure the project after clone
 
 1. `cd hello-world`
 2. run `composer install`
